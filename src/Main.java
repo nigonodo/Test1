@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Author author = new Author("li","hzj",25);
+
+
+
     }
 }
